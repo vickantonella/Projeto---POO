@@ -17,7 +17,7 @@ Turma 922-A - Programação Orientada a Objetos
     - Foram feitos testes de execução do código e o mesmo parece estar funcionando corretamente.
 
 3. Descrição da experiência:
-    - Enfrentamos algumas dificuldades na construção das validações de telefone, email e data de aniversário, mas conseguimos compreender e corrigir nossos erros com o auxílio de materiais de pesquisa. A criação das subclasses, conforme solicitado, foram realizadas de forma tranquila. 
+    - Enfrentamos algumas dificuldades na construção das validações de telefone, email e data de aniversário, mas conseguimos compreender e corrigir nossos erros com o auxílio de materiais de pesquisa. A criação das subclasses, conforme solicitado, foram realizadas de forma tranquila. Além disso, a experiência de programar em trio possibilitou que pudéssemos estudar juntos.
 
 4. Dificuldades encontradas:
     - Validações de telefone, email e data de aniversário;
