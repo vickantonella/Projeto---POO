@@ -4,9 +4,9 @@ Turma 922-A - Programação Orientada a Objetos
 
 # *Integrantes:*
 
-- Alan Victor dos Santos da Costa (Função: Desenvolvedor, criador da Subclasse Colega de Trabalho, das funções Excluir Contato e Pesquisar Contato, além de ficar responsável por testar o código);
-- Joelma Gomes da Silva (Função: Desenvolvedora, criadora da Classe Contato, Subclasse Cliente, da função Adicionar Contato e do MENU);
-- Victoria Antonella de Oliveira Costa (Função: Desenvolvedora, criadora da Subclasse Amigo, das funções Visualizar Contatos, Editar Contato e pelas validações).
+- **Alan Victor dos Santos da Costa** - (Função: Desenvolvedor, criador da Subclasse Colega de Trabalho, das funções Excluir Contato e Pesquisar Contato, além de ficar responsável por testar o código);
+- **Joelma Gomes da Silva** - (Função: Desenvolvedora, criadora da Classe Contato, Subclasse Cliente, da função Adicionar Contato e do MENU);
+- **Victoria Antonella de Oliveira Costa** - (Função: Desenvolvedora, criadora da Subclasse Amigo, das funções Visualizar Contatos, Editar Contato e pelas validações).
 
 # *Perguntas*
 
@@ -14,13 +14,15 @@ Turma 922-A - Programação Orientada a Objetos
    - As funcionalidades e requisitos propostos foram atendidos.
 
 2. Há algum problema/erro identificado?
-    - 
+    - Foram feitos testes de execução do código e o mesmo parece estar funcionando corretamente.
 
 3. Descrição da experiência:
-    -
+    - Enfrentamos algumas dificuldades na construção das validações de telefone, email e data de aniversário, mas conseguimos compreender e corrigir nossos erros com o auxílio de materiais de pesquisa. A criação das subclasses, conforme solicitado, foram tranquilas de fazer. 
 
 4. Dificuldades encontradas:
-    - Enfrentamos algumas dificuldades na construção das validações de telefone, email e data de aniversário, mas conseguimos compreender e corrigir nossos erros com o auxílio de materiais de pesquisa.
+    - Validações de telefone, email e data de aniversário;
+    - Regex;
+    - Métodos da Classe Agenda.
    
 # *Referências:*
 
