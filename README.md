@@ -8,7 +8,7 @@ Turma 922-A - Programação Orientada a Objetos
 - **Joelma Gomes da Silva** - (Função: Desenvolvedora, criadora da Classe Contato, Subclasse Cliente, da função Adicionar Contato e do MENU);
 - **Victoria Antonella de Oliveira Costa** - (Função: Desenvolvedora, criadora da Subclasse Amigo, das funções Visualizar Contatos, Editar Contato e pelas validações).
 
-# *Perguntas*
+# *Perguntas:*
 
 1. Tudo o que foi pedido foi realizado? Faltou algo?
    - As funcionalidades e requisitos propostos foram atendidos.
